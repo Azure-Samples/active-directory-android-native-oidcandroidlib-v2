@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/active-directory-android-native-oidcandroidlib-v2.iml" filepath="$PROJECT_DIR$/active-directory-android-native-oidcandroidlib-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/active-directory-android-native-oidcandroidlib-v2-1.iml" filepath="$PROJECT_DIR$/active-directory-android-native-oidcandroidlib-v2-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/OIDCAndroidLib/oidclib/oidclib.iml" filepath="$PROJECT_DIR$/OIDCAndroidLib/oidclib/oidclib.iml" />
       <module fileurl="file://$PROJECT_DIR$/OIDCAndroidLib/oidclib-sample/oidclib-sample.iml" filepath="$PROJECT_DIR$/OIDCAndroidLib/oidclib-sample/oidclib-sample.iml" />
     </modules>
