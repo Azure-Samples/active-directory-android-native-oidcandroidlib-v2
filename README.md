@@ -1,7 +1,7 @@
 ---
 services: active-directory
 platforms: android
-author: xerners
+author: brandwe
 ---
 
 # active-directory-android-native-oidcandroidlib-v2
