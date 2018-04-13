@@ -4,13 +4,10 @@ platforms: android
 author: danieldobalian
 ---
 
-# active-directory-android-native-oidcandroidlib-v2
-Demonstrates how you can use a third party library like oidcandroidlib to build an Android application that authenticates Microsoft identity users to our new v2 (converged) identity service and calls a web API using OAuth 2.0 access tokens.
-## Running this sample
-Coming soon...
-## Deploy this sample to Azure
-Coming soon...
-## About the code
-Coming soon...
-## More information
-Coming soon...
+# This sample has been archived 
+
+A newer version demonstrating how to build Android apps on the v2.0 converged endpoint is available: https://github.com/Azure-Samples/active-directory-android-native-v2.
+
+The code is still in the repo, but no longer be tested, monitored, or evaluated (including the 3rd party Auth library being used).  
+
+For more docs, checkout https://aka.ms/aaddev. 
